@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable react/display-name */
 import Image from "next/image";
 import { ThumbUpIcon } from "@heroicons/react/outline";

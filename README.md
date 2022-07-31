@@ -2,6 +2,8 @@
 
 Creating a Hulu UI clone (with server side rendering)
 
+![Hulu UI](https://github.com/ankanbal/hulu-clone/blob/main/demo_pic.png)
+
 ## Project Overview
 
 This project is a small attempt to create some basic UI functionalities of Hulu using Next.js . I have used Next.js, Tailwind and flexbox CSS for this project

@@ -25,3 +25,9 @@ If you are more used to npm, then feel free to remove the yarn.lock file from th
 ## Future plans
 
 I plan to add account creation, login/logout etc and also plan to learn how to actually run a movie on a page so that i can extend it to a movie streaming app. Stay tuned.
+
+## Live link
+
+Following link is where its deployed live now. Feel free to check it out.
+
+https://hulu-clone-ankanbal.vercel.app/
